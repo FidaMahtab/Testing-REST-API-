@@ -9,4 +9,4 @@ Testing REST API of an Employee Management System, built in Java spring boot and
 
 <li>If we omit one column like “lastName” that will show us an error named “Internal Server Error” </li>
 </ul>
-<img src = "Images/4k-red-dead-redemption-2-poster-artwork-wallpaper-preview.jpg"> 
+
