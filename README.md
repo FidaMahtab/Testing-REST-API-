@@ -45,7 +45,7 @@ Testing REST API of an Employee Management System, built in Java spring boot and
 <b> Improvement:</b> 
 <ul>
 <li>If database update successfully there should be a message pop-up. </li>
-
+<img src = Images/4.png>
 </ul>
 
 <h3>Delete API </h3>
