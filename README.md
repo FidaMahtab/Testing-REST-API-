@@ -29,7 +29,7 @@ Testing REST API of an Employee Management System, built in Java spring boot and
 
 
 <h3>Get all API </h3>
-<b> Findings:</b> <br>
+<b> Findings:</b> 
 
 
 <b> Improvement:</b> 
@@ -38,4 +38,22 @@ Testing REST API of an Employee Management System, built in Java spring boot and
 
 </ul>
 
+<h3>Update API </h3>
 
+<b> Findings:</b> 
+
+<b> Improvement:</b> 
+<ul>
+<li>If database update successfully there should be a message pop-up. </li>
+
+</ul>
+
+<h3>Delete API </h3>
+
+<b> Findings:</b> 
+
+<b> Improvement:</b> 
+<ul>
+<li>If the row of database successfully deleted, there should be a pop-up message and mention which row was deleted. </li>
+
+</ul>
