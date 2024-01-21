@@ -22,7 +22,7 @@ Testing REST API of an Employee Management System, built in Java spring boot and
 <b> Findings:</b> 
 <ul>
 <li>If we try to find such ID which was not exist or negative values which is not possible in numeric format in our database that will show “Not Found” error.</li>
-
+<img src= Images/3.png>
 </ul>
 
 <b> Improvement:</b> 
