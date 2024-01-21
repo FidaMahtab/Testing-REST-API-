@@ -14,7 +14,7 @@ Testing REST API of an Employee Management System, built in Java spring boot and
 <b> Improvement:</b> 
 <ul>
 <li>User must be filling all the data given so that it will send no errors. </li>
-
+<img src= Images/2.png>
 </ul>
 
 <h3>Get API </h3>
