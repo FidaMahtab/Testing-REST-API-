@@ -6,6 +6,7 @@ Testing REST API of an Employee Management System, built in Java spring boot and
 <b> Findings:</b> 
 <ul>
 <li>If we post one extra column like “address” that will declare as an error, and it says “bad request” </li>
+<img src= Images/1.png>
 
 <li>If we omit one column like “lastName” that will show us an error named “Internal Server Error” </li>
 </ul>
