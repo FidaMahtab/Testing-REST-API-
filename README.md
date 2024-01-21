@@ -29,7 +29,7 @@ Testing REST API of an Employee Management System, built in Java spring boot and
 
 
 <h3>Get all API </h3>
-<b> Findings:</b> 
+<b> Findings:</b> <br>
 
 
 <b> Improvement:</b> 
