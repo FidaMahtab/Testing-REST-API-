@@ -55,5 +55,5 @@ Testing REST API of an Employee Management System, built in Java spring boot and
 <b> Improvement:</b> 
 <ul>
 <li>If the row of database successfully deleted, there should be a pop-up message and mention which row was deleted. </li>
-
+<img src = Images/5.png>
 </ul>
