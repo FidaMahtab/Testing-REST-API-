@@ -4,6 +4,7 @@ The project can be found here : https://github.com/ZahidHaque/TeamTracker
 
 <h3> Use Case Diagram</h3>
 <img src = UML Diagram/Use Case Diagram.png>
+
 <h3>Create API </h3>
 
 
