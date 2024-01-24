@@ -3,7 +3,7 @@ Testing REST API of an Employee Management System, built in Java spring boot and
 The project can be found here : https://github.com/ZahidHaque/TeamTracker
 
 <h3> Use Case Diagram</h3>
-<img src = UML Diagram/Use Case Diagram.png>
+<img src = UML Diagram/Use_Case_Diagram.png>
 
 <h3>Create API </h3>
 
